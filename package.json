@@ -1,9 +1,9 @@
 {
-  "name": "ForMyLove",
+  "name": "xiaoyunqi",
   "version": "0.1.0",
-  "description": "宝贝情人节快乐",
+  "description": "xiaoyunqi",
   "main": "gulpfile.js",
-  "author": "WangJohn",
+  "author": "jiangpanlei",
   "license": "MIT",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
